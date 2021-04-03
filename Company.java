@@ -7,4 +7,6 @@ public class Company
 {
 	name = "IBM";
 }
+     public Product product()
+
 }
